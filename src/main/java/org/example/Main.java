@@ -14,6 +14,7 @@ public class Main {
         userMap.put("tanaka", "osaka");
         userMap.put("takahashi", "hyougo");
         userMap.put("yokogi", "kyouto");
+        userMap.put("fujita", "kagosima");
 
         for (String key:userMap.keySet()){
             System.out.println(key + " is lives in " + userMap.get(key) );
